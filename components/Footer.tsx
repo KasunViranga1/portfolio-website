@@ -2,7 +2,6 @@ import React from "react";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
 import { socialMedia } from "@/data";
-s;
 const Footer = () => {
   return (
     <footer className="w-full pb-10 pt-20" id="contact">
